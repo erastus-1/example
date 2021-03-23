@@ -98,8 +98,6 @@ const CardImageCard = () => (
     <Card>
       <Image
         src={F1}
-        wrapped
-        ui={true}
         style={{ height: "200px", width: "350px" }}
       />
       <Card.Content>
